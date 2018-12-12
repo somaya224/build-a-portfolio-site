@@ -84,7 +84,7 @@ video {
     right: 0;
     bottom: 0;
     z-index: -1;
-    background: #02b3e4 url(../img/cover-photo.jpg) no-repeat center;
+    background: #02b3e4 url(../img/cover/cover-large-1024.jpg) no-repeat center;
     background-size: 100% 100%;
     opacity: 0.8;
 }

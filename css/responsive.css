@@ -2,9 +2,18 @@
     .name {
         font-size: 1.5em;
     }
+
+    .hero::after {
+        background: #02b3e4 url(../img/cover/cover-small-320.jpg) no-repeat center;
+    }
 }
 
 @media screen and (min-width: 600px) {
+    .hero::after {
+        background: #02b3e4 url(../img/cover/cover-large-1024.jpg) no-repeat center;
+        background-size: cover;
+    }
+
     .projects-container {
         display: flex;
         flex-wrap: wrap;
@@ -35,6 +44,10 @@
 }
 
 @media screen and (min-width: 1150px) {
+    /*.hero::after {
+        background: #02b3e4 url(../img/cover/cover-large-1024.jpg) no-repeat center;
+    }*/
+
     .projects-container {
         justify-content: space-between;
     }
