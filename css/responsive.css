@@ -1,0 +1,54 @@
+@media screen and (min-width: 600px) {
+    .projects-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .project {
+        width: calc(50% - 20px);
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    /*.project-desc {
+        left: 10px;
+        right: 10px;
+    }*/
+
+}
+
+@media screen and (min-width: 1040px) {
+    .projects-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .project {
+        width: calc(100% / 3 - 20px);
+    }
+}
+
+@media screen and (min-width: 1150px) {
+    .projects-container {
+        justify-content: space-between;
+    }
+
+    .project {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .logo {
+        margin-left: -10px;
+    }
+
+    .header-title {
+        margin-right: 0;
+    }
+}
+
+
+
+
+
+
