@@ -18,6 +18,13 @@ Building a responsive portfolio website.
 - CSS
 
 ## Pictures
-- The hero section background picture is <a href="https://unsplash.com/photos/j4uuKnN43_M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Knight</a> on <a href="https://unsplash.com/">Unsplash</a>
+- The hero section background is Photo by Markus Spiske on Unsplash<a href="https://unsplash.com/photos/70Rir5vB96U">here</a>
 
-- Kitten Project picture is a place image from <a href="https://placekitten.com/">placekitten</a>
+- Kitten Project picture flicker All rights reserved by <a href="https://www.flickr.com/photos/59165006@N05/11512418355/sizes/l">hubert88</a>
+
+- Puppy Project picture flicker All rights reserved by <a href="https://www.flickr.com/photos/109270412@N02/10961348784/sizes/l">Clozosky</a>
+
+
+- Lion Project picture flicker All rights reserved by <a href="https://www.flickr.com/photos/128325945@N05/16301651281/sizes/l">MyKerttu</a>
+
+- Deer Project picture flicker All rights reserved by <a href="https://www.flickr.com/photos/klaroche/33001965194/sizes/l">jklaroche</a>
